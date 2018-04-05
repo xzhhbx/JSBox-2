@@ -1,13 +1,3 @@
-// var item = $context.image
-// // $quicklook.open({
-// //     image: item
-// // })
-// var text = $qrcode.decode(item)
-// $quicklook.open({
-//     text: text
-// })
-// $clipboard.text = text
-
 $app.strings = {
     "en": {
         "title1": "Clipboard Saved",
